@@ -1,0 +1,30 @@
+.cabecalho {
+    background-color: rgb(149, 216, 149);
+    color: white;
+    text-align: center;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.quadros{
+background-color: black;
+margin: 30px auto;
+max-width: 90vw;
+height: auto;
+width: auto;
+}
+
+.card{
+    background-color: rgb(149, 216, 149);
+    height: 130px;
+    width: 20vw;
+    margin: 1vw 1.25vw;
+    float: left;
+}
+.card1{
+    background-color: rgb(149, 216, 149);
+    height: 440px;
+    width: 65vw;
+    margin: 1vw 1.25vw;
+    float: left;
+}
